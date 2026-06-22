@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTB GO"
+#EXTINF:-1 tvg-name="RTB GO", RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-name="Somoy TV"
+#EXTINF:-1 tvg-name="Somoy TV", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="DAZN 4K"
+#EXTINF:-1 tvg-name="DAZN 4K", DAZN 4K
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="WIN 4K"
+#EXTINF:-1 tvg-name="WIN 4K", WIN 4K
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="Caze TV FHD"
+#EXTINF:-1 tvg-name="Caze TV FHD", Caze TV FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV Bacup"
+#EXTINF:-1 tvg-name="Somoy TV Bacup", Somoy TV Backup
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-name="Tyc Sports"
+#EXTINF:-1 tvg-name="Tyc Sports", Tyc Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
