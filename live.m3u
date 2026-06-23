@@ -15,9 +15,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="Somoy TV 1", Somoy TV 1
 http://c1live.net:8080/SOMOY-TV-HD/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV 2", Somoy TV 2
-http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FOX-43", FOX-43
+http://c1live.net:8080/FOX-43/index.m3u8
 #EXTINF:-1 tvg-name="T Sports 1", T Sports 1
 http://c1live.net:8080/T-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-name="T Sports 2", T Sports 2
-http://c1live.net:8080/T-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO", TELEMUNDO
+http://c1live.net:8080/TELEMUNDO-BOSTON/index.m3u8
