@@ -1,23 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTB GO", RTB GO
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-name="Somoy TV", Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="DAZN 4K", DAZN 4K
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="WIN 4K", WIN 4K
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="Caze TV FHD", Caze TV FHD
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV Bacup", Somoy TV Backup
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-name="Tyc Sports", Tyc Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-name="Somoy TV 1", Somoy TV 1
-http://c1live.net:8080/SOMOY-TV-HD/index.m3u8
-#EXTINF:-1 tvg-name="FOX-43", FOX-43
+#EXTINF:-1 tvg-name="FIFA+" group-title="Sports", FIFA+
+http://c1live.net:8080/FIFA-PLUS/index.m3u8
+#EXTINF:-1 tvg-name="FOX-43" group-title="Sports", FOX-43 
 http://c1live.net:8080/FOX-43/index.m3u8
-#EXTINF:-1 tvg-name="T Sports 1", T Sports 1
-http://c1live.net:8080/T-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO", TELEMUNDO
+#EXTINF:-1 tvg-name="TELEMUNDO" group-title="Sports", TELEMUNDO 
 http://c1live.net:8080/TELEMUNDO-BOSTON/index.m3u8
+#EXTINF:-1 tvg-name="BeinSports MAX 1" group-title="Sports", BeinSports MAX 1
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
+#EXTINF:-1 tvg-name="TRT" group-title="Sports", TRT
+https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Tyc" group-title="Sports", Tyc 
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV Sports" group-title="Sports", PTV Sports 
+http://172.31.3.100:8080/LIVE-EVENT-1/index.m3u8
+#EXTINF:-1 tvg-name="T-Sports 1" group-title="Sports", T-Sports 1
+http://c1live.net:8080/T-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-name="T-Sports 2" group-title="Sports", T-Sports 2
+http://c1live.net:8080/SOMOY-TV-HD/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" group-title="Sports", Somoy TV 
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="FIFA-WC-Event 1" group-title="Sports", FIFA-WC-Event 1
+http://165.99.39.250:8080/memfs/e238e05b-bb37-40c2-9724-160be3f32f50.m3u8
+#EXTINF:-1 tvg-name="FIFA-WC-Event 2" group-title="Sports", FIFA-WC-Event 2
+http://172.31.22.20:8080/LIVE-EVENT-2/index.m3u8
+#EXTINF:-1 tvg-name="FIFA-WC-Event 3" group-title="Sports", FIFA-WC-Event 3
+http://172.31.21.25:8080/LIVE-EVENT-3/index.m3u8
+#EXTINF:-1 tvg-name="FIFA-WC-Event 4" group-title="Sports", FIFA-WC-Event 4
+http://172.31.3.100:8080/LIVE-EVENT-1/index.m3u8
+#EXTINF:-1 tvg-name="FIFA-WC-Event 5" group-title="Sports", FIFA-WC-Event 5
+https://hls.livekhelatv.website/mks/lktv/fifa-worldcup-eng/master.m3u8
+#EXTINF:-1 tvg-name="DBC News" group-title="News", DBC News
+http://c1live.net:8080/DBC-NEWS-HD/index.m3u8
+#EXTINF:-1 tvg-name="GAZI TV" group-title="News", GAZI TV
+http://c1live.net:8080/GAZI-TV/index.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" group-title="News", INDEPENDENT TV
+http://c1live.net:8080/INDEPENDENT-TV/index.m3u8
