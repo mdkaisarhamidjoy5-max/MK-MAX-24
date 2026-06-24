@@ -1,18 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FIFA+" group-title="Sports", FIFA+
 http://c1live.net:8080/FIFA-PLUS/index.m3u8
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Sports", FOX Sports
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-name="FOX-43" group-title="Sports", FOX-43 
 http://c1live.net:8080/FOX-43/index.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO" group-title="Sports", TELEMUNDO 
 http://c1live.net:8080/TELEMUNDO-BOSTON/index.m3u8
 #EXTINF:-1 tvg-name="BeinSports MAX 1" group-title="Sports", BeinSports MAX 1
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
+#EXTINF:-1 tvg-name="BeinSports MAX 2" group-title="Sports", BeinSports MAX 2
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:-1 tvg-name="TRT" group-title="Sports", TRT
 https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Tyc" group-title="Sports", Tyc 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" group-title="Sports", PTV Sports 
-http://172.31.3.100:8080/LIVE-EVENT-1/index.m3u8
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+#EXTINF:-1 tvg-name="TSN 1" group-title="Sports", TSN 1
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69660.ts
+#EXTINF:-1 tvg-name="Caze TV" group-title="Sports", Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5" group-title="Sports", Canal 5
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/276767.ts
+#EXTINF:-1 tvg-name="Fussball TV" group-title="Sports", Fussball TV 
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 #EXTINF:-1 tvg-name="T-Sports 1" group-title="Sports", T-Sports 1
 http://c1live.net:8080/T-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-name="T-Sports 2" group-title="Sports", T-Sports 2
@@ -35,3 +47,9 @@ http://c1live.net:8080/DBC-NEWS-HD/index.m3u8
 http://c1live.net:8080/GAZI-TV/index.m3u8
 #EXTINF:-1 tvg-name="INDEPENDENT TV" group-title="News", INDEPENDENT TV
 http://c1live.net:8080/INDEPENDENT-TV/index.m3u8
+#EXTINF:-1 tvg-name="DW Naws" group-title="News", DW Naws 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="CNN News" group-title="News", CNN News
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="News", BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
