@@ -53,3 +53,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News" group-title="News", BBC News
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+#EXTINF:-1 tvg-name="Live Kora" group-title="Sports", Live Kora 
+https://2.bb2.dpdns.org/stream.m3u8
+#EXTINF:-1 tvg-name="FOX-51" group-title="Sports", FOX-51
+https://pub-4aa1aaf3896e4dd0923f238800b68845.r2.dev/kickbd-bein4k/main.m3u8
+#EXTINF:-1 tvg-name="KooraCity" group-title="Sports", KooraCity 
+https://sh.clouata.space/wooorle2.m3u8
+#EXTINF:-1 tvg-name="TV AZTECA7" group-title="Sports", TV AZTECA7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
